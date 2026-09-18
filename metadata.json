@@ -1,0 +1,6 @@
+{
+  "name": "سكني - منصة سكن الطلاب",
+  "description": "منصة ويب متخصصة لسكن طلاب الجامعات، توفر البحث عن سكن مناسب ومعاينة موثقة ولوحة تحكم شاملة للإدارة والملاك والطلاب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
